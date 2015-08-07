@@ -1,107 +1,294 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: 1.0.0\n"
+"Project-Id-Version: wp-category-meta\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-01-14 12:00+0100\n"
-"PO-Revision-Date: 2011-01-14 12:02+0100\n"
-"Last-Translator: Eric Le Bail <eric_lebail@hotmail.com>\n"
-"Language-Team: Eric Le Bail <eric_lebail@hotmail.com>\n"
+"POT-Creation-Date: Fri May 15 2015 00:03:51 GMT+0200\n"
+"PO-Revision-Date: Sat May 30 2015 02:28:14 GMT+0200\n"
+"Last-Translator: riha <riha@webovareseni.cz>\n"
+"Language-Team: \n"
+"Language: English\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
 "X-Poedit-Language: English\n"
 "X-Poedit-Country: UNITED STATES\n"
-"X-Poedit-SourceCharset: utf-8\n"
-"X-Poedit-KeywordsList: _e\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SearchPath-0: ..\n"
+"X-Loco-Target-Locale: en_US\n"
+"X-Generator: Loco - https://localise.biz/"
 
-#: ../wp-category-meta.php:501
+#: ../wp-category-meta.php:278
+msgid "Done"
+msgstr ""
+
+#: ../wp-category-meta.php:279
+msgid "Today"
+msgstr ""
+
+#: ../wp-category-meta.php:282
+msgid "Show a different month"
+msgstr ""
+
+#: ../wp-category-meta.php:685
+msgid "This additional data is attached to the current term:"
+msgstr ""
+
+#: ../wp-category-meta.php:700
+msgid "There are no data to the current term."
+msgstr ""
+
+#: ../wp-category-meta.php:704
 msgid "Term meta"
 msgstr "Term ( Category / Tag / ...) meta"
 
-#: ../wp-category-meta.php:531
-#: ../wp-category-meta.php:540
-#: ../wp-category-meta.php:585
-msgid "This additionnal data is attached to the current term"
-msgstr "This additionnal data is attached to the current \"term\" (Category / Tag / ...)"
-
-#: ../wp-category-meta.php:558
-#: ../wp-category-meta.php:570
+#: ../wp-category-meta.php:775
 msgid "No image selected"
 msgstr "No image selected"
 
-#: ../wp-category-meta.php:564
+#: ../wp-category-meta.php:778 ../wp-category-meta.php:812
+msgid "Add photos from your media library"
+msgstr ""
+
+#: ../wp-category-meta.php:781
+msgid "Add an Image"
+msgstr ""
+
+#: ../wp-category-meta.php:781
 msgid "Click here to add/change your image"
 msgstr "Click here to add/change your image"
 
-#: ../wp-category-meta.php:566
-msgid "Note: To choose image click the \"insert into post\" button in the media uploader"
-msgstr "Note: To choose image click the \"insert into post\" button in the media uploader"
+#: ../wp-category-meta.php:784
+msgid ""
+"Note: To choose image click the \"insert into post\" button in the media "
+"uploader"
+msgstr ""
+"Note: To choose image click the \"insert into post\" button in the media "
+"uploader"
 
-#: ../wp-category-meta.php:571
+#: ../wp-category-meta.php:787
+msgid "Remove existing image"
+msgstr ""
+
+#: ../wp-category-meta.php:790
 msgid "Click here to remove the existing image"
 msgstr "Click here to remove the current image"
 
-#: ../views/options.php:72
-msgid "Category Meta Version:"
-msgstr "Category Meta Version:"
+#: ../wp-category-meta.php:809
+msgid "No file selected"
+msgstr ""
 
-#: ../views/options.php:76
-msgid "Meta list"
-msgstr "Meta list"
+#: ../wp-category-meta.php:815
+msgid "Add a File"
+msgstr ""
 
-#: ../views/options.php:84
-#: ../views/options.php:135
-msgid "Meta Name"
-msgstr "Meta name"
+#: ../wp-category-meta.php:815
+msgid "Click here to add/change your file"
+msgstr ""
 
-#: ../views/options.php:85
-#: ../views/options.php:147
-msgid "Meta Type"
-msgstr "Meta type"
+#: ../wp-category-meta.php:818
+msgid ""
+"Note: To choose file click the \"insert into post\" button in the media "
+"uploader"
+msgstr ""
 
-#: ../views/options.php:87
-msgid "Meta Taxonomy"
-msgstr "Meta taxonomy (Category / Tag / ...)"
+#: ../wp-category-meta.php:821
+msgid "Remove existing file"
+msgstr ""
 
-#: ../views/options.php:89
-msgid "Action"
-msgstr "Action"
+#: ../wp-category-meta.php:824
+msgid "Click here to remove the existing file"
+msgstr ""
 
-#: ../views/options.php:118
-msgid "Delete this Meta"
-msgstr "Delete this Meta"
+#: ../wp-category-meta.php:849
+msgid ""
+"<strong>Error:</strong> To use Color Picker, you need to have Wordpress at "
+"least 3.5. Please upgrade your instalation."
+msgstr ""
 
-#: ../views/options.php:130
-msgid "Add a Meta"
-msgstr "Add a meta"
+#: ../wp-category-meta.php:868
+msgid ""
+"<strong>Error:</strong> To use Date Picker, you need to have Wordpress at "
+"least 3.5. Please upgrade your instalation."
+msgstr ""
 
-#: ../views/options.php:141
-msgid "Sanitize meta name"
-msgstr "Replace special characters into meta name"
+#: ../views/options.php:39
+msgid "Meta Name is empty!"
+msgstr ""
 
-#: ../views/options.php:150
-msgid "Text"
-msgstr "Text"
+#: ../views/options.php:40
+msgid ""
+"Do you really want to change the taxonomy? All data with this meta name "
+"assigned to the old taxonomy will be deleted!"
+msgstr ""
 
-#: ../views/options.php:151
-msgid "Text Area"
-msgstr "Text area"
+#: ../views/options.php:41
+msgid "Error: You have selected no taxonomies. Choose at least one."
+msgstr ""
 
-#: ../views/options.php:152
-msgid "Image"
-msgstr "Image"
+#: ../views/options.php:49
+msgid "Category Meta Options"
+msgstr ""
 
-#: ../views/options.php:153
-msgid "Check Box"
-msgstr "Check Box"
+#: ../views/options.php:49
+msgid "Category Meta"
+msgstr ""
 
-#: ../views/options.php:159
-msgid "Meta Toxonomy"
-msgstr "Meta taxonomy (Category / Tag / ...)"
-
-#: ../views/options.php:177
+#: ../views/options.php:58
 msgid "Add Meta"
 msgstr "Add meta"
 
+#: ../views/options.php:62
+msgid "Text"
+msgstr "Text"
+
+#: ../views/options.php:63
+msgid "Text Area"
+msgstr "Text area"
+
+#: ../views/options.php:64
+msgid "Image"
+msgstr "Image"
+
+#: ../views/options.php:65
+msgid "File"
+msgstr ""
+
+#: ../views/options.php:66
+msgid "Check Box"
+msgstr "Check Box"
+
+#: ../views/options.php:67
+msgid "Check Box Group"
+msgstr ""
+
+#: ../views/options.php:68
+msgid "Select"
+msgstr ""
+
+#: ../views/options.php:69
+msgid "Radio buttons"
+msgstr ""
+
+#: ../views/options.php:70
+msgid "Color"
+msgstr ""
+
+#: ../views/options.php:71
+msgid "Date Picker"
+msgstr ""
+
+#: ../views/options.php:121
+msgid "Error: Field <strong>Meta Name</strong> cannot be empty!"
+msgstr ""
+
+#: ../views/options.php:125 ../views/options.php:202
+#, php-format
+msgid "Error: Meta Name <strong>%s</strong> already exists!"
+msgstr ""
+
+#: ../views/options.php:136
+#, php-format
+msgid "Meta Name <strong>%s</strong> succesfully deleted."
+msgstr ""
+
+#: ../views/options.php:153
+msgid "Update this Meta"
+msgstr ""
+
+#: ../views/options.php:198
+#, php-format
+msgid ""
+"Meta Name succefully changed from <strong>%s</strong> to <strong>%s</strong>."
+" Don't forget to update your PHP code!"
+msgstr ""
+
+#: ../views/options.php:217
+#, php-format
+msgid "Meta Name <strong>%s</strong> succesfully updated."
+msgstr ""
+
+#: ../views/options.php:228
+msgid "Category Meta Version:"
+msgstr "Category Meta Version:"
+
+#: ../views/options.php:233
+msgid "Meta list"
+msgstr "Meta list"
+
+#: ../views/options.php:240 ../views/options.php:330
+msgid "Meta Name"
+msgstr "Meta name"
+
+#: ../views/options.php:241 ../views/options.php:336
+msgid "Input Label"
+msgstr "Input label\n"
+
+#: ../views/options.php:242 ../views/options.php:342
+msgid "Input Description"
+msgstr "Input description"
+
+#: ../views/options.php:243 ../views/options.php:381
+msgid "Meta Type"
+msgstr "Meta type"
+
+#: ../views/options.php:245 ../views/options.php:401
+msgid "Meta Taxonomy"
+msgstr "Meta taxonomy (Category / Tag / ...)"
+
+#: ../views/options.php:247
+msgid "Action"
+msgstr "Action"
+
+#: ../views/options.php:306
+msgid "Edit this Meta"
+msgstr ""
+
+#: ../views/options.php:311
+#, php-format
+msgid ""
+"Do you really want to delete '%s'? All terms meta with this name will be "
+"also deleted!"
+msgstr ""
+
+#: ../views/options.php:311
+msgid "Delete this Meta"
+msgstr "Delete this Meta"
+
+#: ../views/options.php:325
+msgid "Add a Meta"
+msgstr "Add a meta"
+
+#: ../views/options.php:332
+msgid "(e.g. 'image', use a-z, A-Z and _or -, no spaces)"
+msgstr ""
+
+#: ../views/options.php:338
+msgid "(e.g. 'My Image')"
+msgstr ""
+
+#: ../views/options.php:350
+msgid "Values and names (checkbox groups, select and radiobuttons only)"
+msgstr ""
+
+#: ../views/options.php:358 ../views/options.php:362 ../views/options.php:370
+msgid "Value:"
+msgstr ""
+
+#: ../views/options.php:360 ../views/options.php:372
+msgid "Add value"
+msgstr ""
+
+#: ../views/options.php:364 ../views/options.php:375
+msgid "Delete value"
+msgstr ""
+
+#: ../views/options.php:374
+msgid "Name for value:"
+msgstr ""

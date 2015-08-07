@@ -1,0 +1,348 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-category-meta v1.3.0.beta\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Fri May 15 2015 00:03:51 GMT+0200\n"
+"PO-Revision-Date: 2015-06-05 21:08:14+0000\n"
+"Last-Translator: riha <riha@webovareseni.cz>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Textdomain-Support: yes"
+
+#: wp-category-meta.php:279
+#@ wp-category-meta
+msgid "Done"
+msgstr "Hotovo"
+
+#: wp-category-meta.php:280
+#@ wp-category-meta
+msgid "Today"
+msgstr "Dnes"
+
+#: wp-category-meta.php:283
+#@ wp-category-meta
+msgid "Show a different month"
+msgstr "Zobrazit jiný měsíc"
+
+#: wp-category-meta.php:813
+#@ wp-category-meta
+msgid "This additional data is attached to the current term:"
+msgstr "Tato přídavná data jsou asociována s tímto termínem:"
+
+#: wp-category-meta.php:828
+#@ wp-category-meta
+msgid "There are no data to the current term."
+msgstr "Tento pojem nemá přiřazena žádná pole."
+
+#: wp-category-meta.php:832
+#@ wp-category-meta
+msgid "Term meta"
+msgstr "Metadata termínu ( Kategorie / Štítek / ...)"
+
+#: wp-category-meta.php:903
+#@ wp-category-meta
+msgid "No image selected"
+msgstr "Není vybrán žádný obrázek"
+
+#: wp-category-meta.php:906
+#: wp-category-meta.php:940
+#@ wp-category-meta
+msgid "Add photos from your media library"
+msgstr "Přidat obrázky z v Vaší Knihovny médií"
+
+#: wp-category-meta.php:909
+#@ wp-category-meta
+msgid "Add an Image"
+msgstr "Přidat obrázek"
+
+#: wp-category-meta.php:909
+#@ wp-category-meta
+msgid "Click here to add/change your image"
+msgstr "Klikněte sem pro přidání/změnu Vašeho obrázku"
+
+#: wp-category-meta.php:912
+#@ wp-category-meta
+msgid "Note: To choose image click the \"insert into post\" button in the media uploader"
+msgstr "Poznámka: Pro vybrání obrázku klikněte na \"Vložit do příspěvku\" v Knihovně Médií"
+
+#: wp-category-meta.php:915
+#@ wp-category-meta
+msgid "Remove existing image"
+msgstr "Odstranit existující obrázek"
+
+#: wp-category-meta.php:918
+#@ wp-category-meta
+msgid "Click here to remove the existing image"
+msgstr "Klikněte sem pro odstranění aktuálního obrázku"
+
+#: wp-category-meta.php:937
+#@ wp-category-meta
+msgid "No file selected"
+msgstr "Žádný soubor nevybrán"
+
+#: wp-category-meta.php:943
+#@ wp-category-meta
+msgid "Add a File"
+msgstr "Přidat soubor"
+
+#: wp-category-meta.php:943
+#@ wp-category-meta
+msgid "Click here to add/change your file"
+msgstr "Klikněte sem přidat/změnit Váš soubor"
+
+#: wp-category-meta.php:946
+#@ wp-category-meta
+msgid "Note: To choose file click the \"insert into post\" button in the media uploader"
+msgstr "Poznámka: pro vybrání souboru klikněte na Vložit do příspěvku\" v Knihovně Médií"
+
+#: wp-category-meta.php:949
+#@ wp-category-meta
+msgid "Remove existing file"
+msgstr "Odstranit existující soubor"
+
+#: wp-category-meta.php:952
+#@ wp-category-meta
+msgid "Click here to remove the existing file"
+msgstr "Klikněte sem pro odstranění existujícího souboru"
+
+#: wp-category-meta.php:977
+#@ wp-category-meta
+msgid "<strong>Error:</strong> To use Color Picker, you need to have Wordpress at least 3.5. Please upgrade your instalation."
+msgstr "<strong>Chyba:</strong> Pokud si přejete použít meta pole pro výběr barev, musíte mít Wordpress ve verzi nejméně 3.5.0.  Aktualizujte Vaši instalaci Wordpressu."
+
+#: wp-category-meta.php:996
+#@ wp-category-meta
+msgid "<strong>Error:</strong> To use Date Picker, you need to have Wordpress at least 3.5. Please upgrade your instalation."
+msgstr "<strong>Chyba:</strong> Pokud si přejete použít meta pole pro výběr data, musíte mít Wordpress ve verzi nejméně 3.5.0.  Aktualizujte Vaši instalaci Wordpressu."
+
+#: views/options.php:25
+#@ wp-category-meta
+msgid "Meta Name is empty!"
+msgstr "Meta Název je prázdný!"
+
+#: views/options.php:26
+#@ wp-category-meta
+msgid "Do you really want to change the taxonomy? All data with this meta name assigned to the old taxonomy will be deleted!"
+msgstr "Opravdu si přejete změnit taxonomii? Veškerá data s tímto jménem přiřazená k předchozí taxonomii budou smazána!"
+
+#: views/options.php:27
+#@ wp-category-meta
+msgid "Error: You have selected no taxonomies. Choose at least one."
+msgstr "Chyba: nezvolili jste žádné taxonomie. Vyberte alespoň jednu."
+
+#: views/options.php:35
+#@ wp-category-meta
+msgid "Category Meta Options"
+msgstr "Category Meta nastavení"
+
+#: views/options.php:35
+#@ wp-category-meta
+msgid "Category Meta"
+msgstr "Kategorie Meta"
+
+#: views/options.php:44
+#@ wp-category-meta
+msgid "Add Meta"
+msgstr "Přidat meta"
+
+#: views/options.php:48
+#@ wp-category-meta
+msgid "Text"
+msgstr "Textové pole"
+
+#: views/options.php:49
+#@ wp-category-meta
+msgid "Text Area"
+msgstr "Textová oblast"
+
+#: views/options.php:50
+#@ wp-category-meta
+msgid "Image"
+msgstr "Obrázek"
+
+#: views/options.php:51
+#@ wp-category-meta
+msgid "File"
+msgstr "Soubor\n"
+
+#: views/options.php:52
+#@ wp-category-meta
+msgid "Check Box"
+msgstr "Zaškrtávací pole"
+
+#: views/options.php:53
+#@ wp-category-meta
+msgid "Check Box Group"
+msgstr "Zaškrtávací políčka"
+
+#: views/options.php:54
+#@ wp-category-meta
+msgid "Select"
+msgstr "Pole výběru"
+
+#: views/options.php:55
+#@ wp-category-meta
+msgid "Radio buttons"
+msgstr "Radio buttony"
+
+#: views/options.php:56
+#@ wp-category-meta
+msgid "Color"
+msgstr "Barva"
+
+#: views/options.php:57
+#@ wp-category-meta
+msgid "Date Picker"
+msgstr "Datum"
+
+#: views/options.php:107
+#@ wp-category-meta
+msgid "Error: Field <strong>Meta Name</strong> cannot be empty!"
+msgstr "Chyba: Pole <strong>Meta Název</strong> nesmí být prázdné!"
+
+#: views/options.php:111
+#: views/options.php:188
+#, php-format
+#@ wp-category-meta
+msgid "Error: Meta Name <strong>%s</strong> already exists!"
+msgstr "Chyba: Meta Název <strong>%s</strong> již existuje!"
+
+#: views/options.php:122
+#, php-format
+#@ wp-category-meta
+msgid "Meta Name <strong>%s</strong> succesfully deleted."
+msgstr "Meta Název <strong>%s</strong> úspěšně smazán."
+
+#: views/options.php:184
+#, php-format
+#@ wp-category-meta
+msgid "Meta Name succefully changed from <strong>%s</strong> to <strong>%s</strong>. Don't forget to update your PHP code!"
+msgstr "Meta Název úspěšně změněno z <strong>%s</strong> to <strong>%s</strong>. Nezapomeňte aktualizovat Váš PHP kód!"
+
+#: views/options.php:203
+#, php-format
+#@ wp-category-meta
+msgid "Meta Name <strong>%s</strong> succesfully updated."
+msgstr "Meta Název  <strong>%s</strong> úspěšně aktualizován."
+
+#: views/options.php:214
+#@ wp-category-meta
+msgid "Category Meta Version:"
+msgstr "Category Meta Version:"
+
+#: views/options.php:219
+#@ wp-category-meta
+msgid "Meta list"
+msgstr "Meta seznam"
+
+#: views/options.php:226
+#: views/options.php:316
+#@ wp-category-meta
+msgid "Meta Name"
+msgstr "Meta Název"
+
+#: views/options.php:227
+#: views/options.php:322
+#@ wp-category-meta
+msgid "Input Label"
+msgstr "Jmenovka pole"
+
+#: views/options.php:228
+#: views/options.php:328
+#@ wp-category-meta
+msgid "Input Description"
+msgstr "Popisek pole"
+
+#: views/options.php:229
+#: views/options.php:367
+#@ wp-category-meta
+msgid "Meta Type"
+msgstr "Meta Typ"
+
+#: views/options.php:231
+#: views/options.php:387
+#@ wp-category-meta
+msgid "Meta Taxonomy"
+msgstr "Taxonomie (Kategorie / Štítek / ...)"
+
+#: views/options.php:233
+#@ wp-category-meta
+msgid "Action"
+msgstr "Akce"
+
+#: views/options.php:297
+#, php-format
+#@ wp-category-meta
+msgid "Do you really want to delete '%s'? All terms meta with this name will be also deleted!"
+msgstr "Opravdu si přejete odstranit '%s'? Všechna terms metadata budou smazána s ním!"
+
+#: views/options.php:311
+#@ wp-category-meta
+msgid "Add a Meta"
+msgstr "Přidat meta"
+
+#: views/options.php:318
+#@ wp-category-meta
+msgid "(e.g. 'image', use a-z, A-Z and _or -, no spaces)"
+msgstr "(např. 'obrazek', použijte a-z, A-Z, a _ nebo -, bez mezer)"
+
+#: views/options.php:324
+#@ wp-category-meta
+msgid "(e.g. 'My Image')"
+msgstr "(např. 'Můj obrázek')"
+
+#: views/options.php:336
+#@ wp-category-meta
+msgid "Values and names (checkbox groups, select and radiobuttons only)"
+msgstr "Hodnoty a jejich názvy ( pouze pro skupiny zaškrtávací polí, pole výběru a radiobuttony)"
+
+#: views/options.php:344
+#: views/options.php:348
+#: views/options.php:356
+#@ wp-category-meta
+msgid "Value:"
+msgstr "Hodnota:"
+
+#: views/options.php:346
+#: views/options.php:358
+#@ wp-category-meta
+msgid "Add value"
+msgstr "Přidat hodnotu"
+
+#: views/options.php:350
+#: views/options.php:361
+#@ wp-category-meta
+msgid "Delete value"
+msgstr "Smazat hodnotu"
+
+#: views/options.php:360
+#@ wp-category-meta
+msgid "Name for value:"
+msgstr "Název pro hodnotu:"
+
+#: views/options.php:139
+#@ wp-category-meta
+msgid "Update"
+msgstr "Aktualizovat"
+
+#: views/options.php:292
+#@ wp-category-meta
+msgid "Edit"
+msgstr "Upravit"
+
+#: views/options.php:297
+#@ wp-category-meta
+msgid "Delete"
+msgstr "Smazat"
+

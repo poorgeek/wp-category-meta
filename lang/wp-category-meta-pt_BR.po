@@ -3,26 +3,24 @@ msgstr ""
 "Project-Id-Version: wp-category-meta\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: Fri May 15 2015 00:03:51 GMT+0200\n"
-"PO-Revision-Date: Sat May 30 2015 02:28:26 GMT+0200\n"
+"PO-Revision-Date: Sat May 30 2015 02:28:38 GMT+0200\n"
 "Last-Translator: riha <riha@webovareseni.cz>\n"
 "Language-Team: \n"
-"Language: French (France)\n"
-"Plural-Forms: nplurals=2; plural=n > 1\n"
+"Language: Portuguese (Brazil)\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-SourceCharset: utf-8\n"
-"X-Poedit-Language: French\n"
-"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
 "X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
 "__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
 "_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
 "esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
 "esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
-"X-Poedit-Basepath: .\n"
-"X-Poedit-SearchPath-0: ../.\n"
-"X-Loco-Target-Locale: fr_FR\n"
-"X-Generator: Loco - https://localise.biz/"
+"X-Poedit-SearchPath-0: .\n"
+"X-Loco-Target-Locale: pt_BR"
 
 #: ../wp-category-meta.php:278
 msgid "Done"
@@ -46,11 +44,11 @@ msgstr ""
 
 #: ../wp-category-meta.php:704
 msgid "Term meta"
-msgstr "Méta pour le term (Catégorie / Tag / ....)"
+msgstr "Termo do meta"
 
 #: ../wp-category-meta.php:775
 msgid "No image selected"
-msgstr "Aucune image sélectionnée"
+msgstr "Nenhuma imagem selecionada"
 
 #: ../wp-category-meta.php:778 ../wp-category-meta.php:812
 msgid "Add photos from your media library"
@@ -58,27 +56,25 @@ msgstr ""
 
 #: ../wp-category-meta.php:781
 msgid "Add an Image"
-msgstr "Ajouter une image"
+msgstr "Adicionar imagem"
 
 #: ../wp-category-meta.php:781
 msgid "Click here to add/change your image"
-msgstr "Cliquer ici pour ajouter / modifier l'image"
+msgstr "Clique aqui para adicionar/editar sua imagem"
 
 #: ../wp-category-meta.php:784
 msgid ""
 "Note: To choose image click the \"insert into post\" button in the media "
 "uploader"
-msgstr ""
-"Note: Pour choisir une image cliquez sur le bouton \"Ajouter à l'article\" "
-"dans la bibliothèque média"
+msgstr "Nota: Para selecionar uma imagem clique em no botão \"Inserir no post\" "
 
 #: ../wp-category-meta.php:787
 msgid "Remove existing image"
-msgstr "Supprimer l'image existante"
+msgstr ""
 
 #: ../wp-category-meta.php:790
 msgid "Click here to remove the existing image"
-msgstr "Cliquer ici pour supprimer l'image sélectionnée."
+msgstr "Clique aqui para remover a imagem existente"
 
 #: ../wp-category-meta.php:809
 msgid "No file selected"
@@ -138,23 +134,23 @@ msgstr ""
 
 #: ../views/options.php:49
 msgid "Category Meta"
-msgstr ""
+msgstr "Category Meta"
 
 #: ../views/options.php:58
 msgid "Add Meta"
-msgstr "Ajouter la méta"
+msgstr "Adicionar Meta"
 
 #: ../views/options.php:62
 msgid "Text"
-msgstr "Texte"
+msgstr "Text"
 
 #: ../views/options.php:63
 msgid "Text Area"
-msgstr "Zone de texte"
+msgstr "Text Area"
 
 #: ../views/options.php:64
 msgid "Image"
-msgstr "Image"
+msgstr "Imagem"
 
 #: ../views/options.php:65
 msgid "File"
@@ -162,7 +158,7 @@ msgstr ""
 
 #: ../views/options.php:66
 msgid "Check Box"
-msgstr "Case à cocher"
+msgstr "Check Box"
 
 #: ../views/options.php:67
 msgid "Check Box Group"
@@ -212,19 +208,19 @@ msgstr ""
 #: ../views/options.php:217
 #, php-format
 msgid "Meta Name <strong>%s</strong> succesfully updated."
-msgstr "Nom de Meta <strong>% s </ strong> avec succès mis à jour."
+msgstr ""
 
 #: ../views/options.php:228
 msgid "Category Meta Version:"
-msgstr "Catégorie Méta Version:"
+msgstr "Versão Category Meta:"
 
 #: ../views/options.php:233
 msgid "Meta list"
-msgstr "Liste des méta"
+msgstr "Lista Metadados"
 
 #: ../views/options.php:240 ../views/options.php:330
 msgid "Meta Name"
-msgstr "Nom de la méta"
+msgstr "Nome"
 
 #: ../views/options.php:241 ../views/options.php:336
 msgid "Input Label"
@@ -236,15 +232,15 @@ msgstr ""
 
 #: ../views/options.php:243 ../views/options.php:381
 msgid "Meta Type"
-msgstr "Type de la méta"
+msgstr "Tipo"
 
 #: ../views/options.php:245 ../views/options.php:401
 msgid "Meta Taxonomy"
-msgstr "Taxonomie de la méta (Category / Tag / ...)"
+msgstr "Taxonomia"
 
 #: ../views/options.php:247
 msgid "Action"
-msgstr "Action"
+msgstr "Ação"
 
 #: ../views/options.php:306
 msgid "Edit this Meta"
@@ -259,11 +255,11 @@ msgstr ""
 
 #: ../views/options.php:311
 msgid "Delete this Meta"
-msgstr "Supprimer cette méta"
+msgstr "Remover"
 
 #: ../views/options.php:325
 msgid "Add a Meta"
-msgstr "Ajouter une méta"
+msgstr "Adicionar"
 
 #: ../views/options.php:332
 msgid "(e.g. 'image', use a-z, A-Z and _or -, no spaces)"
